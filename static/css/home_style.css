@@ -1,0 +1,17 @@
+html, body {
+    height:100%;
+    padding: 0;
+    margin: 0;
+    color: rgb(252, 252, 252);
+  }
+html{
+    background-image: url('../img/uoe.jpg');
+    background-size: cover;
+}
+body {
+    background: rgba(64, 132, 172, 0.466);
+}
+#home-content{
+    text-align: center;
+    padding-top: 20%;
+}
